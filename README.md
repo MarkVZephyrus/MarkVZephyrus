@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarkVZephyrus
-- 👀 I’m interested in game development in C++ and thus Unreal.
-- 🌱 I’m currently learning a lot. Am a beginner, and thus I wonder why you are interested in me.
-- 💞️ I’m looking to collaborate on discussion about a place that could offer me excellent education in game dev(prefferably for free, yes I'm a miser).
+- 👀 I’m interested in game development in C++ or C#.
+- 🌱 I currently have a lot to learn. Am a beginner, and thus I wonder why you are interested in me.
+- 💞️ I’m looking to collaborate on well just about anything related to games or softwares. 
 - 📫 How to reach me? Don't.
 
 <!---
